@@ -26,6 +26,11 @@ Sorting, Maxima Minima:
 <img width="1553" height="361" alt="image" src="https://github.com/user-attachments/assets/187c6174-6a3c-4564-a21a-c95e4f863375" />
 
 -
+Magic Square:
+<img width="1084" height="784" alt="image" src="https://github.com/user-attachments/assets/f9be3e1a-e465-4297-85e1-35b80e577cb8" />
+
+<img width="1059" height="370" alt="image" src="https://github.com/user-attachments/assets/dbeeb745-d18a-48dc-89bf-fc1e6338a22a" />
+
 
 
 
